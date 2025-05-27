@@ -6,9 +6,7 @@ Welcome to the **DSA with Python** repository — a structured path to mastering
 
 ## 📚 Sections
 
-### 📘 [Learn Basics] (./DSA/Learn Basics)
+### 📘 [Learn Basics](./Learn%20Basics)
 Foundational topics from Striver’s A2Z Sheet:
-- Patterns using loops
+- Patterns using loops 
 - Basic Math problems
-
-
