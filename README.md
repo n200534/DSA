@@ -1,6 +1,6 @@
 # DSA
 
-# 🐍 DSA with Python – Build Logic, Not Just Code
+# DSA with Python – Build Logic, Not Just Code
 
 Welcome to the **DSA with Python** repository! This project is a personal journey to master Data Structures and Algorithms (DSA) using Python — starting with **pattern problems**, the best way to build your logical thinking and looping skills.
 
@@ -8,11 +8,11 @@ Welcome to the **DSA with Python** repository! This project is a personal journe
 
 ---
 
-## 🧠 How to Approach Pattern Problems
+##  How to Approach Pattern Problems
 
 Pattern problems are more than just printing shapes — they teach you how to break a problem down, think row-by-row, and develop code that evolves over iterations. Here's the general approach you should follow:
 
-### ✅ Step-by-Step Pattern Solving Strategy
+###  Step-by-Step Pattern Solving Strategy
 
 1. **Observe the Pattern Carefully**
    - Identify how many rows and columns are there.
@@ -47,5 +47,5 @@ Pattern problems are more than just printing shapes — they teach you how to br
 
 ---
 
-## 📁 Repository Structure (So Far)
+With Love...!!! By AkshayKumarAmavarapu
 
