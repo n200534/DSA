@@ -1,4 +1,11 @@
 # Before we dive into DSA lets get hands dirty by learning the basic things 
+---
+
+## 📑 Table of Contents
+
+- [⭐ How to Approach Pattern Problems in Python](#-how-to-approach-pattern-problems-in-python)
+- [📘 Basic Math Problems – DSA with Python](#-basic-math-problems--dsa-with-python)
+---
 # ⭐ How to Approach Pattern Problems in Python
 
 Pattern problems are excellent for building logic with loops and nested conditions. They might look simple, but they sharpen your understanding of how iterations and indices work.
