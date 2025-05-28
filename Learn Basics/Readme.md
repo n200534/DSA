@@ -85,4 +85,72 @@ Check:
 
 - Correct number of characters
 
+# 📘 Basic Math Problems – DSA with Python
+
+This section covers foundational math-based problems from the Striver's A2Z DSA Sheet. Each problem is implemented in Python with optimized logic and clean structure.
+
+---
+
+## ✅ Solved Problems
+
+- Count digits in a number
+- Reverse a number
+- Check if a number is a palindrome
+- Compute GCD/HCF of two numbers
+- Check for Armstrong number
+- Print all divisors of a number
+- Check for a prime number
+
+---
+
+## 🧠 General Approach & Key Points
+
+### 1️⃣ Count Digits
+- Keep dividing `n` by 10 until it becomes 0.
+- Increment a counter at each step.
+- Time Complexity: **O(log₁₀ n)**
+
+### 2️⃣ Reverse a Number
+- Use `% 10` to get the last digit and build the reversed number.
+- Remove the last digit using `// 10`.
+- Time Complexity: **O(log n)**
+
+### 3️⃣ Palindrome Check
+- Store original number.
+- Reverse it and compare with original.
+- If both match, it's a palindrome.
+
+### 4️⃣ GCD / HCF
+- Use **Euclidean Algorithm**:
+- Time Complexity: **O(log min(a, b))**
+
+### 5️⃣ Armstrong Number
+- Count digits → `num_digits = len(str(n))`
+- For each digit: sum += digitⁿ
+- Compare sum with original number.
+
+### 6️⃣ Print All Divisors
+- Loop from 1 to √n, and for each i that divides n:
+- Print both i and n // i.
+- Time Complexity: **O(√n)**
+
+### 7️⃣ Check for Prime Number
+- Prime numbers have no divisors other than 1 and itself.
+- Check for factors from 2 to √n.
+- Return `False` if any factor found, else `True`.
+
+---
+
+## ⚙️ Best Practices
+
+- Use `//` for integer division.
+- Use `math.sqrt(n)` or `int(n ** 0.5)` for optimized loops.
+- Always handle edge cases: `n = 0`, `n = 1`, `n < 0`
+- Dry run your logic with small numbers to debug patterns.
+
+---
+
+
+
+
 
