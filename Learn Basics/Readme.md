@@ -5,6 +5,7 @@
 
 - [⭐ How to Approach Pattern Problems in Python](#-how-to-approach-pattern-problems-in-python)
 - [📘 Basic Math Problems – DSA with Python](#-basic-math-problems--dsa-with-python)
+- [🔁 Basic Recursion – DSA with Python](#-basic-recursion--dsa-with-python)
 ---
 # ⭐ How to Approach Pattern Problems in Python
 
@@ -157,6 +158,48 @@ This section covers foundational math-based problems from the Striver's A2Z DSA 
 
 ---
 
+# 🔁 Basic Recursion – DSA with Python
+
+A set of beginner-friendly recursive problems to build a strong foundation in problem-solving and recursion.
+
+---
+
+## ✅ Problems Solved
+
+- Print a name N times using recursion  
+- Print numbers from 1 to N using recursion  
+- Print numbers from N to 1 using recursion  
+- Print numbers from 1 to N using **backtracking**
+- Check for string Palinfrome
+- Reverse a number using recursion  
+- Fibonacci series using recursion  
+
+---
+
+## 🧠 Key Concepts
+
+### 🔹 What is Recursion?
+A function that calls itself to solve smaller subproblems. Base condition ensures it eventually stops.
+
+---
+
+## 🚀 Points to Remember
+
+| Concept              | Notes                                                  |
+|----------------------|--------------------------------------------------------|
+| **Base Case**        | Stops recursion from running infinitely                |
+| **Recursive Call**   | Breaks down the problem into smaller subproblems       |
+| **Backtracking**     | Solves deeper parts first, then processes on the way back |
+| **Print vs Return**  | Decide whether you want to collect result or just display it |
+
+---
+
+## ⚙️ Best Practices
+
+- Always include a base case.
+- Use tail-recursion or memoization when possible for optimization.
+
+---
 
 
 
