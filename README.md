@@ -10,3 +10,4 @@ Welcome to the **DSA with Python** repository — a structured path to mastering
 Foundational topics from Striver’s A2Z Sheet:
 - Patterns using loops 
 - Basic Math problems
+- Basic Recursion and Backtracking
