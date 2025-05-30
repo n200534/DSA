@@ -11,3 +11,4 @@ Foundational topics from Striver’s A2Z Sheet:
 - Patterns using loops 
 - Basic Math problems
 - Basic Recursion and Backtracking
+- Basic Hashing
