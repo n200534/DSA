@@ -12,3 +12,5 @@ Foundational topics from Striver’s A2Z Sheet:
 - Basic Math problems
 - Basic Recursion and Backtracking
 - Basic Hashing
+
+### 🔁 Learn Sorting Techniques
