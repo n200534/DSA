@@ -6,6 +6,7 @@
 - [⭐ How to Approach Pattern Problems in Python](#-how-to-approach-pattern-problems-in-python)
 - [📘 Basic Math Problems – DSA with Python](#-basic-math-problems--dsa-with-python)
 - [🔁 Basic Recursion – DSA with Python](#-basic-recursion--dsa-with-python)
+- [🔐 Hashing – DSA with Python](#-hashing--dsa-with-python)
 ---
 # ⭐ How to Approach Pattern Problems in Python
 
@@ -200,6 +201,35 @@ A function that calls itself to solve smaller subproblems. Base condition ensure
 - Use tail-recursion or memoization when possible for optimization.
 
 ---
+# 🔐 Hashing – DSA with Python
+
+---
+
+## 📌 What is Hashing?
+- Maps keys to values using a **hash function**.
+- Enables **O(1)** average-time complexity for insertion, lookup, and deletion.
+- Implemented using:
+  - `dict` → key-value mapping (like HashMap)
+  - `set` → stores unique values only
+
+---
+
+## 🧠 When to Use Hashing?
+
+| Situation                                  | Use              |
+|-------------------------------------------|------------------|
+| Count frequency of elements                | `dict`           |
+| Check if element exists                    | `set` or `dict`  |
+| Find duplicates                            | `set`            |
+| Find first non-repeating/repeating item   | `dict`           |
+| Remove duplicates from list                | `set`            |
+| Group by value/frequency                   | `dict of list`   |
+| Find intersection/union                    | `set`            |
+| Store visited states/paths                 | `set`            |
+
+---
+
+
 
 
 
