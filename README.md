@@ -13,7 +13,7 @@ Foundational topics from Striver’s A2Z Sheet:
 - Basic Recursion and Backtracking
 - Basic Hashing
 
-### 🔁 [Learn Sorting Techniques](./Sorting%20Techniques)
+### 🔁 [Learn Sorting Techniques](./Sorting)
 Core sorting algorithms covered in this section:
 - **Selection Sort** – Select the minimum element and place it at the beginning, iteratively.
 - **Bubble Sort** – Repeatedly swap adjacent elements if they are in the wrong order.
