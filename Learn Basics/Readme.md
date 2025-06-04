@@ -1,4 +1,4 @@
-# Before we dive into DSA lets get hands dirty by learning the basic things 
+# Before we dive into DSA lets get hands dirty by learning the basic things   
 ---
 
 ## 📑 Table of Contents
