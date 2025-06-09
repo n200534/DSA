@@ -21,7 +21,7 @@ Core sorting algorithms covered in this section:
 - **Quick Sort** – Divide and conquer algorithm using a pivot to partition and recursively sort sub-arrays.
 - **Merge Sort** – Divide the array into halves, recursively sort them, and merge the sorted halves.
 
-### Arrays(Easy->Medium->High)
+### 📖 Arrays(Easy->Medium->High)
 
 
 
